@@ -1,0 +1,25 @@
+echo "# 32r2rr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/linkertqwq/32r2rr.git
+git push -u origin mainecho "# 32r2rr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/linkertqwq/32r2rr.git
+git push -u origin mainecho "# 32r2rr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/linkertqwq/32r2rr.git
+git push -u origin mainecho "# 32r2rr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/linkertqwq/32r2rr.git
+git push -u origin main
